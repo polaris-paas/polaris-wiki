@@ -1,9 +1,9 @@
-![](http://nepxion.gitee.io/discovery/docs/polaris-doc/Banner.png)
+![](https://nepxion.github.io/Discovery/docs/polaris-doc/Banner.png)
 
 # Polaris【北极星】云原生微服务解决方案
-[![Wiki](https://badgen.net/badge/icon/wiki?icon=wiki&label=GitHub)](https://github.com/Nepxion/Discovery/wiki)  [![Wiki](https://badgen.net/badge/icon/wiki?icon=wiki&label=Gitee)](https://gitee.com/nepxion/Discovery/wikis/pages?sort_id=3993615&doc_id=1124387)  [![Discovery PPT](https://img.shields.io/badge/Discovery%20-ppt-brightgreen?logo=Microsoft%20PowerPoint)](http://nepxion.gitee.io/discovery/docs/link-doc/discovery-ppt.html)  [![Discovery Page](https://img.shields.io/badge/Discovery%20-page-brightgreen?logo=Microsoft%20Edge)](http://nepxion.gitee.io/discovery/)  [![Discovery Platform Page](https://img.shields.io/badge/Discovery%20Platform%20-page-brightgreen?logo=Microsoft%20Edge)](http://nepxion.gitee.io/discoveryplatform)  [![Polaris Page](https://img.shields.io/badge/Polaris%20-page-brightgreen?logo=Microsoft%20Edge)](http://polaris-paas.gitee.io/polaris-sdk)
+[![Wiki](https://badgen.net/badge/icon/wiki?icon=wiki&label=GitHub)](https://github.com/Nepxion/Discovery/wiki)  [![Wiki](https://badgen.net/badge/icon/wiki?icon=wiki&label=Gitee)](https://gitee.com/nepxion/Discovery/wikis/pages?sort_id=3993615&doc_id=1124387)  [![Discovery PPT](https://img.shields.io/badge/Discovery%20-ppt-brightgreen?logo=Microsoft%20PowerPoint)](https://nepxion.github.io/Discovery/docs/link-doc/discovery-ppt.html)  [![Discovery Page](https://img.shields.io/badge/Discovery%20-page-brightgreen?logo=Microsoft%20Edge)](https://nepxion.github.io/Discovery/)  [![Discovery Platform Page](https://img.shields.io/badge/Discovery%20Platform%20-page-brightgreen?logo=Microsoft%20Edge)](https://nepxion.github.io/DiscoveryPlatform)  [![Polaris Page](https://img.shields.io/badge/Polaris%20-page-brightgreen?logo=Microsoft%20Edge)](https://polaris-paas.github.io/polaris-wiki)
 
-<a href="https://github.com/polaris-paas" tppabs="#" target="_blank"><img width="25" height="25" src="http://nepxion.gitee.io/discovery/docs/icon-doc/github.png"></a>&nbsp;  <a href="https://gitee.com/polaris-paas" tppabs="#" target="_blank"><img width="25" height="25" src="http://nepxion.gitee.io/discovery/docs/icon-doc/gitee.png"></a>&nbsp;  <a href="https://search.maven.org/search?q=g:com.nepxion" tppabs="#" target="_blank"><img width="25" height="25" src="http://nepxion.gitee.io/discovery/docs/icon-doc/maven.png"></a>&nbsp;  <a href="http://nepxion.gitee.io/discovery/docs/contact-doc/wechat.jpg" tppabs="#" target="_blank"><img width="25" height="25" src="http://nepxion.gitee.io/discovery/docs/icon-doc/wechat.png"></a>&nbsp;  <a href="http://nepxion.gitee.io/discovery/docs/contact-doc/dingding.jpg" tppabs="#" target="_blank"><img width="25" height="25" src="http://nepxion.gitee.io/discovery/docs/icon-doc/dingding.png"></a>&nbsp;  <a href="http://nepxion.gitee.io/discovery/docs/contact-doc/gongzhonghao.jpg" tppabs="#" target="_blank"><img width="25" height="25" src="http://nepxion.gitee.io/discovery/docs/icon-doc/gongzhonghao.png"></a>&nbsp;  <a href="mailto:1394997@qq.com" tppabs="#"><img width="25" height="25" src="http://nepxion.gitee.io/discovery/docs/icon-doc/email.png"></a>
+<a href="https://github.com/polaris-paas" tppabs="#" target="_blank"><img width="25" height="25" src="https://nepxion.github.io/Discovery/docs/icon-doc/github.png"></a>&nbsp;  <a href="https://gitee.com/polaris-paas" tppabs="#" target="_blank"><img width="25" height="25" src="https://nepxion.github.io/Discovery/docs/icon-doc/gitee.png"></a>&nbsp;  <a href="https://search.maven.org/search?q=g:com.nepxion" tppabs="#" target="_blank"><img width="25" height="25" src="https://nepxion.github.io/Discovery/docs/icon-doc/maven.png"></a>&nbsp;  <a href="https://nepxion.github.io/Discovery/docs/contact-doc/wechat.jpg" tppabs="#" target="_blank"><img width="25" height="25" src="https://nepxion.github.io/Discovery/docs/icon-doc/wechat.png"></a>&nbsp;  <a href="https://nepxion.github.io/Discovery/docs/contact-doc/dingding.jpg" tppabs="#" target="_blank"><img width="25" height="25" src="https://nepxion.github.io/Discovery/docs/icon-doc/dingding.png"></a>&nbsp;  <a href="https://nepxion.github.io/Discovery/docs/contact-doc/gongzhonghao.jpg" tppabs="#" target="_blank"><img width="25" height="25" src="https://nepxion.github.io/Discovery/docs/icon-doc/gongzhonghao.png"></a>&nbsp;  <a href="mailto:1394997@qq.com" tppabs="#"><img width="25" height="25" src="https://nepxion.github.io/Discovery/docs/icon-doc/email.png"></a>
 
 如果您觉得本框架具有一定的参考价值和借鉴意义，请帮忙在页面右上角 [**Star**]
 
@@ -20,7 +20,7 @@
 - Spring Cloud Alibaba Steering Committer、Nacos Group Member
 - Spring Cloud Alibaba、Nacos、Sentinel、OpenTracing Committer & Contributor
 
-<img src="http://nepxion.gitee.io/discovery/docs/discovery-doc/CertificateGVP.jpg" width="43%"><img src="http://nepxion.gitee.io/discovery/docs/discovery-doc/AwardNacos1.jpg" width="28%"><img src="http://nepxion.gitee.io/discovery/docs/discovery-doc/AwardSCA1.jpg" width="28%">
+<img src="https://nepxion.github.io/Discovery/docs/discovery-doc/CertificateGVP.jpg" width="43%"><img src="https://nepxion.github.io/Discovery/docs/discovery-doc/AwardNacos1.jpg" width="28%"><img src="https://nepxion.github.io/Discovery/docs/discovery-doc/AwardSCA1.jpg" width="28%">
 
 ### 商业合作
 ① Discovery系列
@@ -49,7 +49,7 @@ Polaris为Discovery高级定制版，特色功能
 有商业版需求的企业和用户，请添加微信1394997，联系作者，洽谈合作事宜
 
 ### 入门资料
-![](http://nepxion.gitee.io/discovery/docs/polaris-doc/Logo64.png) Polaris【北极星】企业级云原生微服务商业解决方案
+![](https://nepxion.github.io/Discovery/docs/polaris-doc/Logo64.png) Polaris【北极星】企业级云原生微服务商业解决方案
 
 ① 解决方案
 - [解决方案WIKI版](http://nepxion.com/polaris)
@@ -68,7 +68,7 @@ Polaris为Discovery高级定制版，特色功能
 - Spring Cloud 202x版本
     - [指南示例](https://github.com/polaris-paas/polaris-guide/tree/master)，分支为master
 
-![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Logo64.png) Discovery【探索】企业级云原生微服务开源解决方案
+![](https://nepxion.github.io/Discovery/docs/discovery-doc/Logo64.png) Discovery【探索】企业级云原生微服务开源解决方案
 
 ① 快速入门
 - [快速入门Github版](https://github.com/Nepxion/Discovery/wiki)
@@ -76,10 +76,10 @@ Polaris为Discovery高级定制版，特色功能
 
 ② 解决方案
 - [解决方案WIKI版](http://nepxion.com/discovery)
-- [解决方案PPT版](http://nepxion.gitee.io/discovery/docs/link-doc/discovery-ppt.html)
+- [解决方案PPT版](https://nepxion.github.io/Discovery/docs/link-doc/discovery-ppt.html)
 
 ③ 最佳实践
-- [最佳实践PPT版](http://nepxion.gitee.io/discovery/docs/link-doc/discovery-ppt-1.html)
+- [最佳实践PPT版](https://nepxion.github.io/Discovery/docs/link-doc/discovery-ppt-1.html)
 
 ④ 平台界面
 - [平台界面WIKI版](http://nepxion.com/discovery-platform)
@@ -105,19 +105,19 @@ Polaris为Discovery高级定制版，特色功能
     - [集成版指南示例](https://github.com/Nepxion/DiscoveryGuide/tree/master)，分支为master
 
 ### 架构拓扑
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/Logo64.png) Discovery【探索】和Polaris【北极星】架构体系
+![](https://nepxion.github.io/Discovery/docs/icon-doc/Logo64.png) Discovery【探索】和Polaris【北极星】架构体系
 
 ① Discovery【探索】和Polaris【北极星】联合架构图
 
-![](http://nepxion.gitee.io/discovery/docs/polaris-doc/Architecture.jpg)
+![](https://nepxion.github.io/Discovery/docs/polaris-doc/Architecture.jpg)
 
 ② Discovery【探索】和Polaris【北极星】联合拓扑图
 
-![](http://nepxion.gitee.io/discovery/docs/polaris-doc/Topology.jpg)
+![](https://nepxion.github.io/Discovery/docs/polaris-doc/Topology.jpg)
 
 ③ Polaris【北极星】分层架构图
 
-![](http://nepxion.gitee.io/discovery/docs/polaris-doc/Layer.jpg)
+![](https://nepxion.github.io/Discovery/docs/polaris-doc/Layer.jpg)
 
 ### 前言开篇
 ① 云原生（Cloud Native）定义
@@ -151,9 +151,9 @@ Pivotal官网对云原生概括为4个要素，如下
 
 ③ 云原生（Cloud Native）所需能力与特征
 
-![](http://nepxion.gitee.io/discovery/docs/polaris-doc/CloudNative.jpg)
+![](https://nepxion.github.io/Discovery/docs/polaris-doc/CloudNative.jpg)
 
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 下文着重刻画`Micro Service`的架构，阐述`DevOps`的边界，展现`Container`的落地，但不涉及`CD`的层面
+![](https://nepxion.github.io/Discovery/docs/icon-doc/information.png) 下文着重刻画`Micro Service`的架构，阐述`DevOps`的边界，展现`Container`的落地，但不涉及`CD`的层面
 
 ### 功能概述
 Polaris【北极星】企业级云原生微服务基础架构脚手架，低代码集成平台，围绕Discovery【探索】框架打造，基于Spring Cloud Discovery服务注册发现、Ribbon负载均衡、Feign和RestTemplate调用等组件全方位增强的企业级云原生微服务开源解决方案，面向企业级生产需求精雕细琢，赋能和助力企业快速搭建基础架构的底层云原生微服务框架，有效的降低企业的落地成本。整个架构体系打造，遵循最严格的Maven对称结构和规范，最严格的命名格式，给予使用者最舒适的使用体验
@@ -173,7 +173,7 @@ Polaris【北极星】企业级云原生微服务基础架构脚手架，低代�
 - 支持和兼容Spring Cloud Edgware版、Finchley版、Greenwich版、Hoxton版和202x版以及更高的Spring Cloud版本。默认集成Hoxton版，如果需要，请使用者自行适配成其它版本
 - 支持和兼容Java8～Java17以及更高的SDK版本
 
-![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Diagram.jpg)
+![](https://nepxion.github.io/Discovery/docs/discovery-doc/Diagram.jpg)
 
 支持如下应用型的功能
 - 支持蓝绿灰度发布、路由过滤、流量权重、限流、熔断、降级、隔离、监控、追踪等企业生产级功能
@@ -185,7 +185,7 @@ Polaris【北极星】企业级云原生微服务基础架构脚手架，低代�
 ### 请联系我
 微信、钉钉、公众号和文档
 
-![](http://nepxion.gitee.io/discovery/docs/contact-doc/wechat-1.jpg)![](http://nepxion.gitee.io/discovery/docs/contact-doc/dingding-1.jpg)![](http://nepxion.gitee.io/discovery/docs/contact-doc/gongzhonghao-1.jpg)![](http://nepxion.gitee.io/discovery/docs/contact-doc/document-1.jpg)
+![](https://nepxion.github.io/Discovery/docs/contact-doc/wechat-1.jpg)![](https://nepxion.github.io/Discovery/docs/contact-doc/dingding-1.jpg)![](https://nepxion.github.io/Discovery/docs/contact-doc/gongzhonghao-1.jpg)![](https://nepxion.github.io/Discovery/docs/contact-doc/document-1.jpg)
 
 ## 目录
 - [简介](#简介)
@@ -287,89 +287,89 @@ Polaris【北极星】企业级云原生微服务基础架构脚手架，低代�
 
 | 核心组件名 | 组件类型 |
 | --- | --- |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 旗标组件 | Nepxion Discovery |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 注册发现组件 | Nacos & Eureka & Consul & Zookeeper |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 配置组件 | Apollo & Nacos |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 调用链组件 | SkyWalking + OpenTracing & Jaeger + OpenTracing |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 指标组件 | Prometheus Micrometer & Spring Boot Admin |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 防护组件 | Sentinel & Hystrix |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 蓝绿灰度组件 | Nepxion Discovery |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 环境组件 | Nepxion Polaris内置 |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 控制台组件 | Nepxion Discovery |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 自动化测试组件 | Nepxion Discovery |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 旗标组件 | Nepxion Discovery |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 注册发现组件 | Nacos & Eureka & Consul & Zookeeper |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 配置组件 | Apollo & Nacos |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 调用链组件 | SkyWalking + OpenTracing & Jaeger + OpenTracing |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 指标组件 | Prometheus Micrometer & Spring Boot Admin |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 防护组件 | Sentinel & Hystrix |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 蓝绿灰度组件 | Nepxion Discovery |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 环境组件 | Nepxion Polaris内置 |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 控制台组件 | Nepxion Discovery |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 自动化测试组件 | Nepxion Discovery |
 
 - 框架分层
 
 | 框架分层名 | 分层类型 |
 | --- | --- |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> Gateway网关层 | Spring Cloud Gateway + Nepxion Discovery |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> Zuul网关层 | Spring Cloud Netfilx Zuul + Nepxion Discovery  |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 微服务层 | Spring Cloud Service + Nepxion Discovery  |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 控制台层 | Spring Cloud Service + Nepxion Discovery |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 测试层 | Spring Boot + Nepxion Discovery |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> Gateway网关层 | Spring Cloud Gateway + Nepxion Discovery |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> Zuul网关层 | Spring Cloud Netfilx Zuul + Nepxion Discovery  |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 微服务层 | Spring Cloud Service + Nepxion Discovery  |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 控制台层 | Spring Cloud Service + Nepxion Discovery |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 测试层 | Spring Boot + Nepxion Discovery |
 
 ② 详细清单
 
 | 工程名 | 描述 |
 | --- | --- |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_east.png"> polaris-parent | Polaris Parent定义 |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> polaris-sdk | Polaris SDK目录 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> polaris-component | Polaris组件目录 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-common | Polaris通用组件 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-env | Polaris环境组件，支持动态域名、双云双活和SET单元化<br>支持DEV、FAT、UAT、PRO四个环境配置动态读取 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> polaris-component-banner | Polaris旗标组件目录 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-banner-starter | Polaris旗标组件，启动时显示旗标和重要中间件版本号信息 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> polaris-component-discovery | Polaris 注册发现组件目录 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-discovery-starter-nacos | Polaris Nacos注册发现组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-discovery-starter-consul | Polaris Consul注册发现组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-discovery-starter-eureka | Polaris Eureka注册发现组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-discovery-starter-zookeeper | Polaris Zookeeper注册发现组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-discovery-starter | Polaris注册发现组件的聚合和组装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> polaris-component-config | Polaris 配置组件目录 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter-apollo | Polaris Apollo配置组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter-apollo-console | Polaris控制台集成Apollo配置组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter-apollo-sentinel | Polaris Sentinel集成Apollo配置组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter-nacos | Polaris Nacos配置组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter-nacos-console | Polaris控制台集成Nacos配置组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter-nacos-sentinel | Polaris Sentinel集成Nacos配置组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter | Polaris配置组件的聚合和组装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> polaris-component-tracing | Polaris调用链组件目录 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-tracing-starter-jaeger | Polaris Jaeger调用链组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-tracing-starter-jaeger-sentinel | Polaris Jaeger调用链组件集成Sentinel的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-tracing-starter-skywalking | Polaris SkyWalking调用链组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-tracing-starter-skywalking-sentinel | Polaris SkyWalking调用链组件集成Sentinel的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-tracing-starter | Polaris调用链组件的聚合和组装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> polaris-component-metrics | Polaris指标组件目录 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-metrics-starter-micrometer | Polaris Micrometer指标组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-metrics-starter-micrometer-sentinel | Polaris Micrometer Sentinel指标组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-metrics-starter-spring-boot-admin | Polaris Spring Boot Admin指标组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-metrics-starter | Polaris指标组件的聚合和组装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> polaris-component-protector | Polaris防护组件目录 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-sentinel-common | Polaris Sentinel防护组件通用模块 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-sentinel-gateway | Polaris Sentinel防护组件集成Spring Cloud Gateway网关的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-sentinel-zuul | Polaris Sentinel防护组件集成Zuul网关的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-sentinel-service | Polaris Sentinel防护组件集成微服务的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-hystrix | Polaris支持Hystrix防护组件跨线程异步调用 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-gateway | Polaris防护组件集成Spring Cloud Gateway网关的聚合和组装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-zuul | Polaris防护组件集成Zuul网关的聚合和组装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-service | Polaris防护组件集成微服务的聚合和组装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> polaris-component-gray | Polaris蓝绿灰度组件目录 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-gray-starter-common | Polaris蓝绿灰度组件通用模块 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-gray-starter-gateway | Polaris蓝绿灰度组件集成Spring Cloud Gateway网关的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-gray-starter-zuul | Polaris蓝绿灰度组件集成Zuul网关的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-gray-starter-service | Polaris蓝绿灰度组件集成微服务的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> polaris-component-console | Polaris控制台组件目录 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-console-starter | Polaris控制台组件的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> polaris-component-test | Polaris测试组件目录 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-test-starter-automation | Polaris自动化测试组件 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-component-test-starter | Polaris测试组件的聚合和组装 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> polaris-framework | Polaris框架目录 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-framework-starter-api | Polaris框架对微服务API二方包的封装，主要是对Feign的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-framework-starter-service | Polaris框架对微服务的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-framework-starter-gateway | Polaris框架对Spring Cloud Gateway网关的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-framework-starter-zuul | Polaris框架对Zuul网关的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-framework-starter-console | Polaris框架对控制台的封装 |
-| &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> polaris-framework-starter-test | Polaris框架对测试的封装 |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_east.png"> polaris-parent | Polaris Parent定义 |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png">polaris-sdk | Polaris SDK目录 |
+| &nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-component | Polaris组件目录 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-common | Polaris通用组件 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-env | Polaris环境组件，支持动态域名、双云双活和SET单元化<br>支持DEV、FAT、UAT、PRO四个环境配置动态读取 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-component-banner | Polaris旗标组件目录 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-banner-starter | Polaris旗标组件，启动时显示旗标和重要中间件版本号信息 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-component-discovery | Polaris 注册发现组件目录 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-discovery-starter-nacos | Polaris Nacos注册发现组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-discovery-starter-consul | Polaris Consul注册发现组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-discovery-starter-eureka | Polaris Eureka注册发现组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-discovery-starter-zookeeper | Polaris Zookeeper注册发现组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-discovery-starter | Polaris注册发现组件的聚合和组装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-component-config | Polaris 配置组件目录 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter-apollo | Polaris Apollo配置组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter-apollo-console | Polaris控制台集成Apollo配置组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter-apollo-sentinel | Polaris Sentinel集成Apollo配置组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter-nacos | Polaris Nacos配置组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter-nacos-console | Polaris控制台集成Nacos配置组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter-nacos-sentinel | Polaris Sentinel集成Nacos配置组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-config-starter | Polaris配置组件的聚合和组装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-component-tracing | Polaris调用链组件目录 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-tracing-starter-jaeger | Polaris Jaeger调用链组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-tracing-starter-jaeger-sentinel | Polaris Jaeger调用链组件集成Sentinel的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-tracing-starter-skywalking | Polaris SkyWalking调用链组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-tracing-starter-skywalking-sentinel | Polaris SkyWalking调用链组件集成Sentinel的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-tracing-starter | Polaris调用链组件的聚合和组装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-component-metrics | Polaris指标组件目录 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-metrics-starter-micrometer | Polaris Micrometer指标组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-metrics-starter-micrometer-sentinel | Polaris Micrometer Sentinel指标组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-metrics-starter-spring-boot-admin | Polaris Spring Boot Admin指标组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-metrics-starter | Polaris指标组件的聚合和组装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-component-protector | Polaris防护组件目录 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-sentinel-common | Polaris Sentinel防护组件通用模块 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-sentinel-gateway | Polaris Sentinel防护组件集成Spring Cloud Gateway网关的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-sentinel-zuul | Polaris Sentinel防护组件集成Zuul网关的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-sentinel-service | Polaris Sentinel防护组件集成微服务的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-hystrix | Polaris支持Hystrix防护组件跨线程异步调用 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-gateway | Polaris防护组件集成Spring Cloud Gateway网关的聚合和组装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-zuul | Polaris防护组件集成Zuul网关的聚合和组装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-protector-starter-service | Polaris防护组件集成微服务的聚合和组装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-component-gray | Polaris蓝绿灰度组件目录 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-gray-starter-common | Polaris蓝绿灰度组件通用模块 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-gray-starter-gateway | Polaris蓝绿灰度组件集成Spring Cloud Gateway网关的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-gray-starter-zuul | Polaris蓝绿灰度组件集成Zuul网关的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-gray-starter-service | Polaris蓝绿灰度组件集成微服务的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-component-console | Polaris控制台组件目录 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-console-starter | Polaris控制台组件的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-component-test | Polaris测试组件目录 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-test-starter-automation | Polaris自动化测试组件 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-test-starter | Polaris测试组件的聚合和组装 |
+| &nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-framework | Polaris框架目录 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-framework-starter-api | Polaris框架对微服务API二方包的封装，主要是对Feign的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-framework-starter-service | Polaris框架对微服务的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-framework-starter-gateway | Polaris框架对Spring Cloud Gateway网关的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-framework-starter-zuul | Polaris框架对Zuul网关的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-framework-starter-console | Polaris框架对控制台的封装 |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-framework-starter-test | Polaris框架对测试的封装 |
 
 ### 架构核心
 架构核心位于polaris-framework下，包含如下6个顶级框架层
@@ -481,13 +481,13 @@ polaris-sdk/polaris-parent/pom.xml
 
 | 核心组件名 | 默认生效的组件 |
 | --- | --- |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 旗标核心组件 | Nepxion Discovery |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 注册发现核心组件 | Nacos |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 配置核心组件 | Nacos |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 调用链核心组件 | SkyWalking |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 指标核心组件 | 未激活 |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 防护核心组件 | Sentinel |
-| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/question_message.png"> 蓝绿灰度核心组件 | Nepxion Discovery |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 旗标核心组件 | Nepxion Discovery |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 注册发现核心组件 | Nacos |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 配置核心组件 | Nacos |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 调用链核心组件 | SkyWalking |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 指标核心组件 | 未激活 |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 防护核心组件 | Sentinel |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/question_message.png"> 蓝绿灰度核心组件 | Nepxion Discovery |
 
 #### 注册发现组件切换
 在polaris-component目录下，搜索全部pom.xml，关键字
@@ -569,7 +569,7 @@ You can select one of following polaris protector components, such as Sentinel
 - 定义为不同环境域名的根域后缀
 - 实现占位处理，占位格式为`${domain}`
 
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 注意事项
+![](https://nepxion.github.io/Discovery/docs/icon-doc/warning.png) 注意事项
 
 使用者需要根据企业的实际情况，把组件的四个环境域名或者IP地址一一做更改
 
@@ -607,7 +607,7 @@ domain=aliyun.com
 - 通过System Env环境变量方式进行设置
 - 上述设置都未执行，则缺省为PolarisEnvConstant类里的DOMAIN_VALUE静态变量
 
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 注意事项
+![](https://nepxion.github.io/Discovery/docs/icon-doc/warning.png) 注意事项
 
 读取优先级由高到低，如下
 - System.getProperty
@@ -667,11 +667,11 @@ public class PolarisEnvConstant {
 }
 ```
 
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 注意事项
+![](https://nepxion.github.io/Discovery/docs/icon-doc/warning.png) 注意事项
 
 region占位符前后切记不要出现分隔符
 
-参考[Polaris环境演示视频](http://nepxion.gitee.io/discovery/docs/polaris-doc/PolarisEnv.wmv)
+参考[Polaris环境演示视频](https://nepxion.github.io/Discovery/docs/polaris-doc/PolarisEnv.wmv)
 
 ## 使用步骤
 参考[Polaris指南主页](https://github.com/polaris-paas/polaris-guide)的源码
@@ -788,14 +788,14 @@ public class PolarisApplication {
 #### 添加配置
 由于大量配置已经内置到框架里，除了服务名和端口号之外，业务层原则上不需要再添加Spring Cloud和中间件其它配置，当然也可以覆盖掉默认内置的配置。内置配置文件支持Spring标准占位符用法
 
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 小贴士
+![](https://nepxion.github.io/Discovery/docs/icon-doc/tip.png) 小贴士
 
 为了避免引起业务层的配置无法覆盖掉默认内置的配置，请在bootstrap.properties定义想要覆盖的配置
 
 ### 应用启动
 
 #### 中间件服务启动
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 注意事项
+![](https://nepxion.github.io/Discovery/docs/icon-doc/warning.png) 注意事项
 
 Polaris依赖Nacos Server（必选）和SkyWalking Server（可选），请事先搭建好对应的Server
 
@@ -816,7 +816,7 @@ Polaris依赖Nacos Server（必选）和SkyWalking Server（可选），请事�
 
 部署拓扑图
 
-![](http://nepxion.gitee.io/discovery/docs/polaris-doc/BasicTopology.jpg)
+![](https://nepxion.github.io/Discovery/docs/polaris-doc/BasicTopology.jpg)
 
 #### SkyWalking-Agent启动
 获取SkyWalking Agent，放置在指定目录（例如，C:/opt/skywalking-agent/），通过-javaagent命令启动
@@ -825,7 +825,7 @@ Polaris依赖Nacos Server（必选）和SkyWalking Server（可选），请事�
 
 具体使用方式，访问[异步场景下DiscoveryAgent解决方案](https://gitee.com/Nepxion/Discovery#%e5%bc%82%e6%ad%a5%e5%9c%ba%e6%99%af%e4%b8%8bdiscoveryagent%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88)
 
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 注意事项
+![](https://nepxion.github.io/Discovery/docs/icon-doc/warning.png) 注意事项
 
 对于Spring Cloud 202x版，由于它采用的负载均衡Spring Cloud LoadBalancer是基于异步的WebFlux，所以必须加上DiscoveryAgent，如下
 
@@ -947,7 +947,7 @@ com.nepxion.polaris.component.config.etcd.context.EtcdEnvProcessor
 基于Spring Boot 2.3.x新特性制作的Docker容器化部署
 
 #### 部署Polaris框架包
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 注意事项
+![](https://nepxion.github.io/Discovery/docs/icon-doc/warning.png) 注意事项
 
 由于`Polaris框架包`未推送到Maven中央仓库，需要使用者自行编译部署。在`Polaris源码`的polaris-parent和polaris-skd工程目录下，分别执行如下命令，把Polaris框架相关包部署到本地仓库
 
@@ -984,7 +984,7 @@ mvn clean install -U -DskipTests
 </plugin>
 ```
 
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 注意事项
+![](https://nepxion.github.io/Discovery/docs/icon-doc/warning.png) 注意事项
 
 相对旧版本的spring-boot-maven-plugin，新版本增加了如下配置参数，用来支持镜像Layer分层，加快打包部署的速度
 
@@ -994,7 +994,7 @@ mvn clean install -U -DskipTests
 </layers>
 ```
 
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/error.png) 兼容性问题
+![](https://nepxion.github.io/Discovery/docs/icon-doc/error.png) 兼容性问题
 
 旧版的如下参数必须删除！否则无法创建镜像分层
 
@@ -1005,7 +1005,7 @@ mvn clean install -U -DskipTests
 ```
 
 #### 执行Docker容器和镜像的制作和运行
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 注意事项
+![](https://nepxion.github.io/Discovery/docs/icon-doc/warning.png) 注意事项
 
 Windows操作系统需要注意以下事项
 - 在环境变量里需要配置DOCKER_HOST=tcp://localhost:2375
@@ -1102,7 +1102,7 @@ set METADATA_ZONE=my-zone
 docker run -i -t -e JAVA_OPTS="-Dnepxion.banner.shown.ansi.mode=true -Dmetadata.version=%METADATA_VERSION% -Dmetadata.region=%METADATA_REGION% -Dmetadata.env=%METADATA_ENV% -Dmetadata.zone=%METADATA_ZONE%" -e TZ="Asia/Shanghai" -p 3001:3001 -h polaris-guide-service-a --name polaris-guide-service-a polaris-guide-service-a:latest
 ```
 
-![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 注意事项
+![](https://nepxion.github.io/Discovery/docs/icon-doc/warning.png) 注意事项
 
 在DEV（本地）环境下，配置Docker容器不能通过127.0.0.1的IP地址连接容器外中间件服务器，故需要把启动命令改成如下形式。域名方式则不需要这么做
 
@@ -1118,15 +1118,15 @@ docker run %RUN_MODE% -e JAVA_OPTS="-Dspring.cloud.nacos.discovery.server-addr=%
 
 - Docker Desktop
 
-![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Docker.jpg)
+![](https://nepxion.github.io/Discovery/docs/discovery-doc/Docker.jpg)
 
 - Docker Windows
 
-![](http://nepxion.gitee.io/discovery/docs/polaris-doc/DockerWindows.jpg)
+![](https://nepxion.github.io/Discovery/docs/polaris-doc/DockerWindows.jpg)
 
 - Docker Linux
 
-![](http://nepxion.gitee.io/discovery/docs/polaris-doc/DockerLinux.jpg)
+![](https://nepxion.github.io/Discovery/docs/polaris-doc/DockerLinux.jpg)
 
 ⑦ 官方部署Docker文档
 

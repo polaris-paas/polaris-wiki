@@ -313,7 +313,7 @@ Polaris【北极星】企业级云原生微服务基础架构脚手架，低代�
 | 工程名 | 描述 |
 | --- | --- |
 | <img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_east.png"> polaris-parent | Polaris Parent定义 |
-| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png">polaris-sdk | Polaris SDK目录 |
+| <img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-sdk | Polaris SDK目录 |
 | &nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_south.png"> polaris-component | Polaris组件目录 |
 | &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-common | Polaris通用组件 |
 | &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nepxion.github.io/Discovery/docs/icon-doc/direction_west.png"> polaris-component-env | Polaris环境组件，支持动态域名、双云双活和SET单元化<br>支持DEV、FAT、UAT、PRO四个环境配置动态读取 |
